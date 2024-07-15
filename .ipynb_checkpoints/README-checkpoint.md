@@ -52,4 +52,5 @@ As a more advanced task, I extended the project to generate text. The model can 
 
 ## Acknowledgements
 
-This project is inspired by various tutorials and examples of text generation using LSTM networks. Special thanks to the authors of these resources for their valuable insights and guidance.
+This project was completed as part of the Let's Grow More Virtual Internship Program. Special thanks to the Let's Grow More team for their guidance and support.
+
